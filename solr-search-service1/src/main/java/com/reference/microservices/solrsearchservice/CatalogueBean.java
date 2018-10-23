@@ -13,6 +13,7 @@ public class CatalogueBean implements Serializable{
 	 private String unitPrice;
 	 private String offerPrice;
 	 private String quantityAvailable; 
+	 //
 	 
 		public CatalogueBean() {
 			
